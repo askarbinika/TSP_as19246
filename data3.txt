@@ -1,0 +1,19 @@
+# Mašīnas
+1: 7-22
+# Klienti
+B: 7-22
+C: 7-22
+D: 7-22
+# Ceļš
+AB=1
+AC=2
+AD=3
+BC=2
+BD=1
+CD=2
+BA=1
+CA=2
+DA=3
+CB=2
+DB=1
+DC=2
